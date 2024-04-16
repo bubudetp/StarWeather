@@ -19,12 +19,9 @@ import calendar from '../assets/calendar.png'
 import logo from "./Logo.png";
 
 
-const API_KEY = "AIzaSyCJlatvgYxPMzStsBSEuTkY00LsAq6rCvU";
+const API_KEY = "your google api key";
 
-const api = {
-  key: "3ad593c6cbfa1278cff9813652a6b926",
-  base: "https://api.openweathermap.org/data/2.5/",
-};
+const api = "your opw api key";
 
 
 // Method to fetch location data from a CSV file
